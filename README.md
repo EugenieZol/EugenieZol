@@ -10,7 +10,7 @@ I filter and analyze data to drive informed decision-making.
 
 | Project | What I did | Tools |
 |---------|------------|-------|
-| [Wholesale Audio Equipment Sales Analysis](ссылка) | Identified never-sold products, found top-performing managers, and analyzed the causes of a one-day sales spike | Python, Pandas, Matplotlib |
+| [Wholesale Audio Equipment Sales Analysis](https://github.com/EugenieZol/wholesale-audio-sales-analysis) | Identified never-sold products, found top-performing managers, and analyzed the causes of a one-day sales spike | Python, Pandas, Matplotlib |
 | [Avocado Price Trends Analysis](ссылка) | Analyzed avocado price trends and averages using window functions (moving average and exponential moving average), built interactive charts, and converted a numeric variable into categories to group values | Python, Pandas, Plotly |
 | [Taxi Trips Analysis in Peru](ссылка) | Combined and analyzed Peru taxi trip data by platform, built charts comparing driver and passenger ratings, identified the most tardy driver and the causes of his delays, examined yearly and weekly order seasonality, and analyzed the MAU metric | Python, Pandas, Seaborn, Matplotlib |
 
